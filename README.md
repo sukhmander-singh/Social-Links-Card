@@ -4,7 +4,7 @@ This project is a simple social links card created using HTML and CSS. It provid
 
 ## Demo
 
-You can view a live demo of the social links card [here](#). (Replace the "#" with the actual link to your live demo.)
+You can view a live demo of the social links card [here](#https://sukhmandersociallinks.netlify.app). (Replace the "#" with the actual link to your live demo.)
 
 ## Features
 
